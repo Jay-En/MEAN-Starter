@@ -1,0 +1,13 @@
+{
+  "name" : "NodeSite",
+  "version" : "0.0.1",
+  "description" : "OpenShift Application",
+
+  "dependencies": {
+    "angular" : "~1.2",
+	"angular-route": "~1.2",
+	"angular-resource": "~1.2"
+
+  }
+
+}
